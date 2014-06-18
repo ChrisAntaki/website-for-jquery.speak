@@ -1,0 +1,1 @@
+"use strict";$(".speak").on("click",function(a){a.preventDefault(),$.speak("Looks like you have Chrome. Congratulations, shortay.")});
